@@ -1,0 +1,17 @@
+CONTRIBUTING.md filter=lfs diff=lfs merge=lfs -text
+gradlew filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+consumer-proguard-rules.pro filter=lfs diff=lfs merge=lfs -text
+gradle filter=lfs diff=lfs merge=lfs -text
+gradlew.bat filter=lfs diff=lfs merge=lfs -text
+publish-snapshot-on-commit.sh filter=lfs diff=lfs merge=lfs -text
+rules.gradle filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+gradle.properties filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+bintray.gradle filter=lfs diff=lfs merge=lfs -text
+build.gradle filter=lfs diff=lfs merge=lfs -text
